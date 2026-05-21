@@ -18,7 +18,6 @@ Modern vehicles carry 5-8 radar sensors operating in the 76-81 GHz band. As auto
 
 - Mutual interference can reduce **detection probability from >95% to <30%** in worst cases
 - ETSI and FCC are developing interference mitigation requirements for automotive radar certification
-- Tier-1 suppliers (Bosch, Continental) and OEMs (BYD, NIO, Tesla) are actively hiring for radar + ML roles
 
 This project simulates these interference scenarios and demonstrates that **deep learning can recover >85% of lost detection performance** — a 12+ dB SINR improvement without hardware modifications.
 
