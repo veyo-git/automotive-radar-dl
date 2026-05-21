@@ -194,7 +194,3 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 MIT License. See [LICENSE](LICENSE) for details.
 
 ---
-
-## Author
-
-With a background in complex electromagnetic environment analysis, I built this project to bridge EM domain expertise with modern deep learning — tackling one of the key challenges in autonomous driving sensor fusion.
