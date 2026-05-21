@@ -1,6 +1,6 @@
 # 车载雷达信号仿真与深度学习干扰抑制系统
 
-[![Test](https://github.com/username/automotive-radar-dl/actions/workflows/test.yml/badge.svg)](https://github.com/username/automotive-radar-dl/actions)
+[![Test](https://github.com/veyo-git/automotive-radar-dl/actions/workflows/test.yml/badge.svg)](https://github.com/veyo-git/automotive-radar-dl/actions)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
@@ -27,7 +27,7 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/username/automotive-radar-dl.git
+git clone https://github.com/veyo-git/automotive-radar-dl.git
 cd automotive-radar-dl
 
 # 安装

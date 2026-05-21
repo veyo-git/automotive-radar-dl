@@ -1,6 +1,6 @@
 # Automotive Radar Signal Simulation & Deep Learning-Based Interference Mitigation
 
-[![Test](https://github.com/username/automotive-radar-dl/actions/workflows/test.yml/badge.svg)](https://github.com/username/automotive-radar-dl/actions)
+[![Test](https://github.com/veyo-git/automotive-radar-dl/actions/workflows/test.yml/badge.svg)](https://github.com/veyo-git/automotive-radar-dl/actions)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
@@ -62,7 +62,7 @@ graph TB
 
 ```bash
 # Clone
-git clone https://github.com/username/automotive-radar-dl.git
+git clone https://github.com/veyo-git/automotive-radar-dl.git
 cd automotive-radar-dl
 
 # Install
